@@ -1,8 +1,17 @@
 <h1 align="center"><b>Hi , I'm Marcoandres Herrera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+
+Hello! I am a Software Engineering student with experience in frontend and backend development. I am passionate about learning new technologies and applying them to create practical and efficient solutions. My focus is on writing clear, optimized code and maintaining good development practices.
+
+Although I am still in the learning process, I enjoy facing challenges that will allow me to improve my skills and acquire new knowledge. I am always open to collaborating on projects that help me grow both personally and professionally.
 <br>
 
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <p align="center">
 
 - **Languages**:
